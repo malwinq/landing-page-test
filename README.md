@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+### did you know there are 252 000 new webpages being published every day?
 
-You can use the [editor on GitHub](https://github.com/malwinq/landing-page-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Every click generates **4.6 g CO2** what sums up to **553 kg CO2 annually**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Using EC0Lint the number can be reduced up to **0.2 g CO2**, so to only 24 kg CO2 annually, saving **529 kg CO2 (-96%!)**.
 
-### Markdown
+## about
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+EC0lint is an open-source tool for frontend developers. It's build on top of ESLint and checks not only code problems and styling, but also finds snippets which can be optimised in order to reduce carbon footprint left by your website.
 
-```markdown
-Syntax highlighted code block
+If you wish to contribute, we're more than welcome! You can visit our GitHub project TODO or join our Telegram group TODO.
 
-# Header 1
-## Header 2
-### Header 3
+### problem statement
 
-- Bulleted
-- List
+TODO: how many webpages, CO2 calculations, sustainable web design, SOURCES
 
-1. Numbered
-2. List
+### getting started
 
-**Bold** and _Italic_ and `Code` text
+TODO: how to install and start using
 
-[Link](url) and ![Image](src)
-```
+## how to contribute
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+TODO: docs url, short info
 
-### Jekyll Themes
+## read more
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/malwinq/landing-page-test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+TODO: docs url
 
-### Support or Contact
+## our team
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+TODO: team section
