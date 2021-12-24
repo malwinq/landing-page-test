@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: ec0lint
 description: Tool which makes your website green
+domain: ec0lint.github.io       
+url: https://ec0lint.github.io  # sprawdzic bez github.io
